@@ -1,6 +1,6 @@
 {
     "image": "ballerina/ballerina-devcontainer:2201.3.0",
     "extensions": [
-        "${containerWorkspaceFolder}/ballerina-3.3.7.vsix"
+        "${containerWorkspaceFolder}/choreo-1.0.0.vsix"
     ]
 }
