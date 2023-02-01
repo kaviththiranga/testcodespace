@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://chat.google.com/
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/355128383/a4bb25ff-aa25-40bf-9e09-69f7843e4cbb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230201T075649Z&X-Amz-Expires=300&X-Amz-Signature=3d830b9a04a5b14647f07b94c1af30e4a208743c38e25b291191f2b0ec925de7&X-Amz-SignedHeaders=host&actor_id=1505855&key_id=0&repo_id=355128383&response-content-disposition=attachment%3B%20filename%3Dballerina-3.3.8-beta.0.vsix&response-content-type=application%2Foctet-stream
